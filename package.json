@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/mahbub810515/ecommerce-api#readme",
   "dependencies": {
+    "dotenv": "^17.4.0",
     "express": "^5.2.1",
     "nodemon": "^3.1.14"
   }
